@@ -1,2 +1,3 @@
 # Hello-world
-My first repo
+
+This is my first repo with the homosapiens after my landing. 
